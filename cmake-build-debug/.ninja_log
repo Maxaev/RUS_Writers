@@ -1,0 +1,6 @@
+# ninja log v5
+1	27	1702848808319180928	CMakeFiles/RusWriters.dir/menu.cpp.o	a36cf5ccd647e0a
+1	31	1702848808322901275	CMakeFiles/RusWriters.dir/menuItems.cpp.o	6ab6d9de67514530
+0	35	1702848808326651539	CMakeFiles/RusWriters.dir/main.cpp.o	42ff1d3e2d5adb89
+1	285	1702848808575041816	CMakeFiles/RusWriters.dir/menu_functions.cpp.o	8c7d26631a8b3703
+286	316	1702848808606594597	RusWriters	5c773fea9091c3aa
