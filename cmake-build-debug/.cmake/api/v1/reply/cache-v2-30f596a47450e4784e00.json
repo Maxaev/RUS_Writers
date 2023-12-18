@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/roman/Desktop/Russian_WRITERS/cmake-build-debug"
+			"value" : "/Users/roman/Desktop/Russias_Writers/RUS_Writers/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/roman/Desktop/Russian_WRITERS/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/roman/Desktop/Russias_Writers/RUS_Writers/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/roman/Desktop/Russian_WRITERS"
+			"value" : "/Users/roman/Desktop/Russias_Writers/RUS_Writers"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/roman/Desktop/Russian_WRITERS/cmake-build-debug"
+			"value" : "/Users/roman/Desktop/Russias_Writers/RUS_Writers/cmake-build-debug"
 		},
 		{
 			"name" : "RusWriters_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/roman/Desktop/Russian_WRITERS"
+			"value" : "/Users/roman/Desktop/Russias_Writers/RUS_Writers"
 		}
 	],
 	"kind" : "cache",

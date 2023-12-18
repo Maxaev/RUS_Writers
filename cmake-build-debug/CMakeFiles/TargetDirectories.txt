@@ -1,3 +1,3 @@
-/Users/roman/Desktop/Russian_WRITERS/cmake-build-debug/CMakeFiles/RusWriters.dir
-/Users/roman/Desktop/Russian_WRITERS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/roman/Desktop/Russian_WRITERS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/roman/Desktop/Russias_Writers/RUS_Writers/cmake-build-debug/CMakeFiles/RusWriters.dir
+/Users/roman/Desktop/Russias_Writers/RUS_Writers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/roman/Desktop/Russias_Writers/RUS_Writers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
